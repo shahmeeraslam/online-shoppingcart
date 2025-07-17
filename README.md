@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+**<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -59,3 +59,71 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+**<p align="center">
+  <a href="https://github.com/shahmeerali/laravel-shopping-cart" target="_blank">
+    <img src="https://img.freepik.com/premium-vector/shopping-cart-logo-design-template-vector-illustration_640292-217.jpg" width="300" alt="Shopping Cart Logo">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://laravel.com/docs"><img src="https://img.shields.io/badge/Laravel-Framework-red.svg" alt="Laravel Framework"></a>
+  <a href="#"><img src="https://img.shields.io/badge/TailwindCSS-Utility--First-blue" alt="Tailwind CSS"></a>
+  <a href="#"><img src="https://img.shields.io/badge/License-MIT-green" alt="License"></a>
+</p>
+
+---
+
+# 🛒 Laravel Shopping Cart
+
+A modern **Laravel-based online shopping cart** built with Tailwind CSS. This eCommerce platform features session-based cart functionality, user authentication, admin controls for managing products, and an order confirmation system. Designed for simplicity, speed, and clean UI/UX.
+
+---
+
+## 📌 Key Features
+
+- 🔐 Secure Authentication (Register/Login)
+- 🛍️ Add-to-Cart with Session Tracking
+- ✅ Order Confirmation System (Database Saved)
+- 👤 Admin Panel with Product CRUD
+- 🧑‍🤝‍🧑 Role-based Access (User & Admin)
+- 💬 Contact Form
+- 🎨 Built with Tailwind CSS
+
+---
+
+## ⚙️ Tech Stack
+
+| Technology    | Role                                 |
+|---------------|--------------------------------------|
+| Laravel       | PHP Framework                        |
+| Blade         | Templating Engine                    |
+| Tailwind CSS  | CSS Styling Framework                |
+| MySQL         | Database                             |
+| Laravel Auth  | User Login & Registration            |
+| Sessions      | Cart State Management                |
+
+---
+
+## 🛠️ Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/laravel-shopping-cart.git
+cd laravel-shopping-cart
+
+# Install dependencies
+composer install
+npm install
+npm run dev
+
+# Setup environment
+cp .env.example .env
+php artisan key:generate
+
+# Configure .env with your database credentials
+
+# Run migrations
+php artisan migrate
+
+# Start local server
+php artisan serve
