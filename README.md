@@ -68,24 +68,39 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 ---
+# 🛒 Online Shopping Cart
 
-# 🛒 Laravel Shopping Cart
+Developed by **Shahmeer Ali Muhammad Aslam** — Full Stack Developer from Karachi, Pakistan.  
+Specializing in **Laravel, PHP, React, TypeScript, Bootstrap, Tailwind CSS, MySQL, and JavaScript**.
 
-A modern **Laravel-based online shopping cart** built with Tailwind CSS. This eCommerce platform features session-based cart functionality, user authentication, admin controls for managing products, and an order confirmation system. Designed for simplicity, speed, and clean UI/UX.
+This **Laravel-based e-commerce platform** allows users to browse products, add them to a cart, and place orders securely. The system includes **user authentication**, an **admin dashboard**, and **responsive UI** for mobile and desktop.
 
 ---
 
 ## 📌 Key Features
-
-- 🔐 Secure Authentication (Register/Login)
-- 🛍️ Add-to-Cart with Session Tracking
-- ✅ Order Confirmation System (Database Saved)
-- 👤 Admin Panel with Product CRUD
-- 🧑‍🤝‍🧑 Role-based Access (User & Admin)
-- 💬 Contact Form
-- 🎨 Built with Tailwind CSS
+- 🔐 Secure authentication system (Register/Login)
+- 🛍️ Product listing, search, and filtering
+- 🛒 Session-based cart and checkout process
+- 📦 Order management with confirmation system
+- 🖥️ Admin dashboard with CRUD operations
+- 📱 Fully responsive design
 
 ---
+
+## 🛠 Tech Stack
+- **Backend:** Laravel (PHP), MySQL
+- **Frontend:** HTML, CSS, Bootstrap
+- **Version Control:** Git, GitHub
+
+---
+
+## 🔗 Related Projects
+- [NetNest – TypeScript Web App](https://github.com/shahmeeraslam/NetNest)  
+- [Portfolio Website](https://github.com/shahmeeraslam/SHAHMEER-PORTFOLIO)
+
+💻 **[View my GitHub profile](https://github.com/shahmeeraslam)**  
+📧 **Email:** shahmeeraslam9765@gmail.com
+
 
 ## ⚙️ Tech Stack
 
