@@ -99,7 +99,7 @@ This **Laravel-based e-commerce platform** allows users to browse products, add 
 - [Portfolio Website](https://github.com/shahmeeraslam/SHAHMEER-PORTFOLIO)
 
 💻 **[View my GitHub profile](https://github.com/shahmeeraslam)**  
-📧 **Email:** shahmeeraslam9765@gmail.com
+📧 **Email:** shahmeeraslam976@gmail.com
 
 
 ## ⚙️ Tech Stack
